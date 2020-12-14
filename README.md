@@ -7,7 +7,7 @@ This is a simple project that combines features including:
 - [next omptimized images](https://github.com/cyrilwanner/next-optimized-images) to automatically optimizes images.
 
 ## Instant deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daytimestudio/nextjs-netlifycms-typescript&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rmulder/nextjs-netlifycms-typescript&stack=cms)
 
 
 ## Getting started
@@ -16,7 +16,7 @@ To create your app using the template, open your terminal, `cd` into the directo
 and run the following command:
 
 ```
-npx create-next-app your-blog --example "https://github.com/daytimestudio/nextjs-netlifycms-typescript"
+npx create-next-app your-blog --example "https://github.com/rmulder/nextjs-netlifycms-typescript"
 ```
 
 To run localy, start the cms with 
